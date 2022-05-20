@@ -1,23 +1,14 @@
 {
     "keywords":
     [
-        "wikipedia",
-        "online communities"
+        "Cache-Assisted Content Delivery in Wireless Networks: A New Game Theoretic Model"
     ],
     "journals":
     [
-        "information systems research",
-        "mis quarterly",
-        "journal of management information systems",
-        "journal of the association for information systems",
-        "management science",
-        "organization science",
-        "information & management",
-        "decision support systems",
-        "european journal of information systems"
+        "IEEE Systems Journal"
     ],
     "fpath":
-        "/Users/Nico/test/test_googlecrawer2",
+        "./downloads",
     "chromedriver_path":
-    ""
+    "C:/Users/Yiliu/Desktop/chromedriver"
 }

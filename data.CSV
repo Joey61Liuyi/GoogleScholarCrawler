@@ -1,0 +1,180 @@
+title,filename
+Cache-Assisted Content Delivery in Wireless Networks: A New Game Theoretic Model,COMP-0034_Guo_Cache-Assisted_Content_Delivery
+Distributed and Dynamic Service Placement in Pervasive Edge Computing Networks,COMP-0036_Wang_Distributed_Dynamic_Service
+"No Wait, No Waste: A Novel and Efficient Coordination Algorithm for Multiple Readers in RFID Systems",COMP-0042_Guo_No_Wait_No
+Revisiting Double-Spending Attacks on the Bitcoin Blockchain: New Findings,COMP-0046_Guo_Revisiting_Double-Spending_Attacks
+Exploring Layered Container Structure for Cost Efficient Microservice Deployment,COMP-0060_Guo_Exploring_Layered_Container
+Petrel: Heterogeneity-aware Distributed Deep Learning via Hybrid Synchronization,COMP-0063_Zhou_Petrel_Heterogeneity-Aware_Distributed
+Pyramid: A Layered Sharding Blockchain System,COMP-0064_Hong_Pyramid_Layered_Sharding
+Canary: Decentralized Distributed Deep Learning via Gradient Sketch and Partition in Multi-interface Networks,COMP-0075_Zhou_Canary_Decentralized_Distributed
+RDAM: A Reinforcement Learning Based Dynamic Attribute Matrix Representation for Virtual Network Embedding,COMP-0080_Guo_Rdam_Reinforcement_Learning
+"A Survey of State-of-the-Art on Blockchains: Theories, Modelings, and Tools",COMP-0087_Guo_Survey_State-Of-The-Art_Blockchains
+Accurate Respiration Monitoring for Mobile Users with Commercial RFID Devices,COMP-0093_Guo_Accurate_Respiration_Monitoring
+Fast and Reliable Dynamic Tag Estimation in Large-Scale RFID Systems,COMP-0098_Guo_Fast_And_Reliable
+Multi-agent Imitation Learning for Pervasive Edge Computing: A Decentralized Computation Offloading Algorithm,COMP-0101_Wang_Multi-Agent_Imitation_Learning
+Falcon: Addressing Stragglers in Heterogeneous Parameter Server via Multiple Parallelism,COMP-0108_Guo_Falcon_Addressing_Stragglers
+SDN-NFV Aided Edge-Cloud Interplay for 5G-Envisioned Energy Internet Ecosystem,COMP-0112_Guo_Sdn-Nfv_Aided_Edge-Cloud
+An Online Pricing Strategy of EV Charging and Data Caching in Highway Service Stations,COMP-0164_Guo_Online_Pricing_Strategy
+Coflow-like Online Data Acquisition from Low-Earth-Orbit Datacenters,COMP-0167_Guo_Coflow-Like_Online_Data
+Dynamic Resource Allocation for Hierarchical Federated Learning,COMP-0171_Guo_Dynamic_Resource_Allocation
+Learning-Based Network Boolean Tomography for Identifying Congested Links with Correlations,COMP-0176_Guo_Learning-Based_Network_Boolean
+Multi-agent Actor-Critic Reinforcement Learning Based In-network Load Balance,COMP-0177_Guo_Multi-Agent_Actor-Critic_Reinforcement
+Pedagogical Data Analysis via Federated Learning Toward Education 4.0,COMP-0179_Guo_Pedagogical_Data_Analysis
+PIRATE: A Blockchain-based Secure Framework of Distributed Machine Learning in 5G Networks,COMP-0202_Guo_Pirate_Blockchain-Based_Secure
+Autonomous Rate Control for Mobile Internet of Things: A Deep Reinforcement Learning Approach,COMP-0221_Guo_Autonomous_Rate_Control
+Dual-view Attention Networks for Single Image Super-Resolution,COMP-0223_Guo_Dual-View_Attention_Networks
+Joint DNN Partition Deployment and Resource Allocation for Delay-Sensitive Deep Learning Inference in IoT,COMP-0225_Guo_Joint_Dnn_Partition
+Offloading Federated Learning Task to Edge Computing with Trust Execution Environment,COMP-0227_Guo_Offloading_Federated_Learning
+Service Function Chain Deployment and Network Flow Scheduling in Geo-distributed Data Centers,COMP-0231_Guo_Service_Function_Chain
+Why Queue Up? Fast Parallel Search of RFID Tags for Multiple Users,COMP-0232_Guo_Why_Queue_Up
+Towards Real-time Cooperative Deep Inference over the Edge and End Devices,COMP-0250_Guo_Towards_Real-Time_Cooperative
+Online Computation Offloading and Traffic Routing for UAV Swarms in Edge-Cloud Computing,COMP-0271_Guo_Online_Computation_Offloading
+Scalable and Communication-efficient Decentralized Federated Edge Learning with Multi-blockchain Framework,COMP-0272_Guo_Scalable_Communication-Efficient_Decentralized
+SkyChain: A Deep Reinforcement Learning-Empowered Dynamic Blockchain Sharding System,COMP-0275_Zhan_Skychain_Deep_Reinforcement
+A Cyclic Game for Service-Oriented Resource Allocation in Edge Computing,COMP-0283_Guo_Cyclic_Game_Service-Oriented
+A Learning-based Incentive Mechanism for Federated Learning,COMP-0289_Zhan_Learning-Based_Incentive_Mechanism
+Edge QoE: Intelligent Big Data Caching via Deep Reinforcement Learning,COMP-0296_Guo_Edge_Qoe_Intelligent
+Green Resource Allocation based on Deep Reinforcement Learning in Content-Centric IoT,COMP-0300_Guo_Green_Resource_Allocation
+A Deep Reinforcement Learning Based Offloading Game in Edge Computing,COMP-0311_Zhan_Deep_Reinforcement_Learning
+A Continuous-Decision Virtual Network Embedding Scheme Relying on Reinforcement Learning,COMP-0316_Guo_Continuous-Decision_Virtual_Network
+A Learning-Based Approach to Intra-Domain QoS Routing,COMP-0317_Guo_Learning-Based_Approach_Intra-Domain
+Optimal Connected Cruise Control with Arbitrary Communication Delays,COMP-0327_Guo_Optimal_Connected_Cruise
+QoE-Based cooperative task offloading with deep reinforcement learning in mobile edge networks,COMP-0328_Guo_Qoe-Based_Cooperative_Task
+Spacechain: A Three-Dimensional Blockchain Architecture for IoT Security,COMP-0333_Guo_Spacechain_Three-Dimensional_Blockchain
+Two-Layer Game Based Resource Allocation in Cloud Based Integrated Terrestrial-Satellite Networks,COMP-0335_Guo_Two-Layer_Game_Based
+Task Scheduling for Energy Consumption Constrained Parallel Applications on Heterogeneous Computing Systems,COMP-0345_Guo_Task_Scheduling_Energy
+Blockchain Meets Edge Computing: Stackelberg Game and Double Auction based Task Offloading for Mobile Blockchain,COMP-0348_Guo_Blockchain_Meets_Edge
+Near-Optimal Deployment of Service Chains by Exploiting Correlations between Network Functions,COMP-0360_Guo_Near-Optimal_Deployment_Service
+Augmenting Drive-Thru Internet via Reinforcement Learning-Based Rate Adaptation,COMP-0362_Xu_Augmenting_Drive-Thru_Internet
+A Service-Oriented Permissioned Blockchain for the Internet of Things,COMP-0373_Guo_Service-Oriented_Permissioned_Blockchain
+Blockchain Meets Edge Computing: A Distributed and Trusted Authentication System,COMP-0377_Guo_Blockchain_Meets_Edge
+Cooperative caching for multiple bitrate videos in small cell edges,COMP-0389_Guo_Cooperative_Caching_Multiple
+"Deep Learning for Physical-Layer 5G Wireless Techniques: Opportunities, Challenges and Solutions",COMP-0392_Guo_Deep_Learning_Physical-Layer
+Guest Editorial Special Section on AI-Driven Developments in 5G-Envisioned Industrial Automation: Big Data Perspective,COMP-0396_Guo_Guest_Editorial_Special
+Tornado: Enabling Blockchain in Heterogeneous Internet of Things Through a Space-Structured Approach,COMP-0400_Guo_Tornado_Enabling_Blockchain
+Adaptive and Fault-tolerant Data Processing in Healthcare IoT Based on Fog Computing,COMP-0402_Guo_Adaptive_Fault-Tolerant_Data
+Incentive Scheme for Cyber Physical Social Systems Based on User Behaviors,COMP-0407_Guo_Incentive_Scheme_Cyber
+Posted Pricing for Chance Constrained Robust Crowdsensing,COMP-0410_Guo_Posted_Pricing_Chance
+Redundancy Avoidance for Big Data in Data Centers: A Conventional Neural Network Approach,COMP-0414_Guo_Redundancy_Avoidance_Big
+Renewable Energy-Aware Big Data Analytics in Geo-distributed Data Centers with Reinforcement Learning,COMP-0415_Guo_Renewable_Energy-Aware_Big
+Efficient Data Placement and Replication for QoS-Aware Approximate Query Evaluation of Big Data Analytics,COMP-0466_Guo_Efficient_Data_Placement
+Fast Coflow Scheduling via Traffic Compression and Stage Pipelining in Datacenter Networks,COMP-0467_Zhou_Fast_Coflow_Scheduling
+Multi-Hop Cooperative Computation Offloading for Industrial IoT-Edge-Cloud Computing Environments,COMP-0469_Guo_Multi-Hop_Cooperative_Computation
+A Q -Learning Based Framework for Congested Link Identification,COMP-0471_Guo_Q_Based_Framework
+Energy Minimization of Resource Allocation in Cloud-Based Satellite Communication Networks,COMP-0473_Guo_Energy_Minimization_Resource
+AI Routers & Network Mind:?A Hybrid Machine Learning Paradigm for Packet Routing,COMP-0495_Guo_Ai_Routers_Network
+Dual: Deploy stateful virtual network function chains by jointly allocating data-control traffic,COMP-0509_Guo_Dual_Deploy_Stateful
+A Comprehensive Survey of Blockchain: From Theory to IoT Applications and beyond,COMP-0514_Wu_Comprehensive_Survey_Blockchain
+Disclosing and Locating Concurrency Bugs of Interrupt-Driven IoT Programs,COMP-0518_Guo_Disclosing_Locating_Concurrency
+Service Chaining for Hybrid Network Function,COMP-0522_Guo_Service_Chaining_Hybrid
+Green Data-Collection from Geo-Distributed IoT Networks through Low-Earth-Orbit Satellites,COMP-0529_Guo_Green_Data-Collection_Geo-Distributed
+Trust-enhanced content delivery in blockchain-based information-centric networking,COMP-0531_Guo_Trust-Enhanced_Content_Delivery
+OSP: Overlapping computation and communication in parameter server for fast machine learning,COMP-0537_Wang_Osp_Overlapping_Computation
+Joint Multigroup Precoding and Resource Allocation in Integrated Terrestrial-Satellite Networks,COMP-0543_Guo_Joint_Multigroup_Precoding
+AMS-SFE: Towards an alignment of manifold structures via semantic feature expansion for zero-shot learning,COMP-0554_Guo_Ams-Sfe_Towards_Alignment
+Collaboration of Heterogeneous Unmanned Vehicles for Smart Cities,COMP-0555_Guo_Collaboration_Heterogeneous_Unmanned
+"Data-driven intelligent future network: Architecture, use cases, and challenges",COMP-0557_Guo_Data-Driven_Intelligent_Future
+Vital Signs Monitoring with RFID: Opportunities and Challenges,COMP-0561_Guo_Vital_Signs_Monitoring
+Improving Power Efficiency for Online Video Streaming Service: A Self-Adaptive Approach,COMP-0572_Guo_Improving_Power_Efficiency
+Influence maximization by leveraging the crowdsensing data in information diffusion network,COMP-0585_Guo_Influence_Maximization_Leveraging
+When Green Energy Meets Cloud Radio Access Network,COMP-0586_Guo_When_Green_Energy
+Analyzing and disentangling interleaved interrupt-driven IoT programs,COMP-0591_Guo_Analyzing_Disentangling_Interleaved
+Joint Workload Scheduling and Energy Management for Green Data Centers Powered by Fuel Cells,COMP-0597_Wang_Joint_Workload_Scheduling
+Nothing blocks me,COMP-0598_Guo_Nothing_Blocks_Me
+ReActor,COMP-0606_Guo_Reactor
+Adaptive Adjustment with Semantic Feature Space for Zero-shot Recognition,COMP-0614_Guo_Adaptive_Adjustment_Semantic
+An Intelligent Approach to Energy Efficient Transportation and QoS Routing,COMP-0616_Guo_Intelligent_Approach_Energy
+Cooperative transmission in integrated terrestrial-satellite networks,COMP-0618_Guo_Cooperative_Transmission_Integrated
+EE-AE,COMP-0619_Guo_Ee-Ae
+Fairness-Aware Dynamic Rate Control and Flow Scheduling for Network Utility Maximization in Network Service Chain,COMP-0620_Guo_Fairness-Aware_Dynamic_Rate
+Profit maximization for admitting requests with network function services in distributed clouds,COMP-0623_Guo_Profit_Maximization_Admitting
+Resource Management at the Network Edge,COMP-0625_Guo_Resource_Management_Network
+A Differential Privacy-Based Query Model for Sustainable Fog Data Centers,COMP-0635_Wang_Differential_Privacy-Based_Query
+Big Data Processing with Minimal Delay and Guaranteed Data Resolution in Disaster Areas,COMP-0637_Guo_Big_Data_Processing
+Enabling Heterogeneous Network Function Chaining,COMP-0639_Guo_Enabling_Heterogeneous_Network
+Making Big Data Open in Edges,COMP-0642_Guo_Making_Big_Data
+QoS-Aware Cooperative Computation Offloading for Robot Swarms in Cloud Robotics,COMP-0643_Guo_Qos-Aware_Cooperative_Computation
+Secure Wireless Communications Based on Compressive Sensing,COMP-0644_Guo_Secure_Wireless_Communications
+Mobility-Aware Delay-Sensitive Service Provisioning for Mobile Edge Computing,COMP-0654_Guo_Mobility-Aware_Delay-Sensitive_Service
+Poster Abstract,COMP-0656_Cao_Poster_Abstract
+Efficient NFV-enabled multicasting in SDNs,COMP-0665_Guo_Efficient_Nfv-Enabled_Multicasting
+Multi-Controller Resource Management for Software-Defined Wireless Networks,COMP-0667_Guo_Multi-Controller_Resource_Management
+Spectrum Sensing and Recognition in Satellite Systems,COMP-0669_Guo_Spectrum_Sensing_Recognition
+When UAV Swarm Meets Edge-Cloud Computing,COMP-0672_Guo_When_Uav_Swarm
+ISAECC,COMP-0678_Guo_[original filename]
+Range-Based Localization for Sparse 3-D Sensor Networks,COMP-0688_Guo_Range-Based_Localization_Sparse
+Traffic and Computation Co-Offloading with Reinforcement Learning in Fog Computing for Industrial Applications,COMP-0689_Wang_Traffic_Computation_Co-Offloading
+Maximizing Throughput of Delay-Sensitive NFV-Enabled Request Admissions via Virtualized Network Function Placement,COMP-0729_Guo_Maximizing_Throughput_Delay-Sensitive
+Utility Based Data Computing Scheme to Provide Sensing Service in Internet of Things,COMP-0742_Guo_Utility_Based_Data
+An efficient method for optimizing PETSc on the sunway taihulight system,COMP-0769_Guo_Efficient_Method_Optimizing
+Joint computation offloading and routing optimization for UAV-Edge-cloud computing environments,COMP-0770_Guo_Joint_Computation_Offloading
+Multicast in multi-channel cognitive radio ad hoc networks,COMP-0792_Guo_Multicast_Multi-Channel_Cognitive
+Software-Defined Green 5G System for Big Data,COMP-0795_Wang_Software-Defined_Green_5G
+Power consumption analysis of video streaming in 4G LTE networks,COMP-0802_Guo_Power_Consumption_Analysis
+Cluster frameworks for efficient scheduling and resource allocation in data center networks,COMP-0826_Wang_Cluster_Frameworks_Efficient
+Energy-efficient coordinated multipoint scheduling in green cloud radio access network,COMP-0828_Guo_Energy-Efficient_Coordinated_Multipoint
+RDAM: A Reinforcement Learning Based Dynamic Attribute Matrix Representation for Virtual Network Embedding,COMP-0836_Guo_Rdam_Reinforcement_Learning
+Fast Identification of Blocked RFID Tags,COMP-0840_Liu_Fast_Identification_Blocked
+"A Survey on Energy Internet: Architecture, Approach, and Emerging Technologies",COMP-0847_Guo_Survey_Energy_Internet
+ran-GJS,COMP-0857_Guo_Ran-Gjs
+Privacy-preserving data aggregation computing in cyber-physical social systems,COMP-0869_Wang_Privacy-Preserving_Data_Aggregation
+Energy Management of Data Centers Powered by Fuel Cells and Heterogeneous Energy Storage,COMP-0872_Wang_Energy_Management_Data
+Machine-learning-based online distributed denial-of-service attack detection using spark streaming,COMP-0873_Guo_Machine-Learning-Based_Online_Distributed
+Making Big Data Open in Collaborative Edges,COMP-0874_Wang_Making_Big_Data
+Online green data gathering from geo-distributed IoT networks via LEO satellites,COMP-0876_Guo_Online_Green_Data
+Throughput maximization of delay-sensitive request admissions via virtualized network function placements and migrations,COMP-0877_Guo_Throughput_Maximization_Delay-Sensitive
+Information and communications technologies for sustainable development goals,COMP-0892_Guo_Information_Communications_Technologies
+Stochastic scheduling towards cost efficient network function virtualization in edge cloud,COMP-0903_Zhang_Stochastic_Scheduling_Towards
+Green Energy Scheduling for Demand Side Management in the Smart Grid,COMP-0910_Guo_Green_Energy_Scheduling
+Advances in Satellite Communications Part 2,COMP-0927_Guo_Advances_Satellite_Communications
+CoMan,COMP-0931_Guo_Coman
+Energy Management for EV Charging in Software-Defined Green Vehicle-to-Grid Network,COMP-0933_Wang_Energy_Management_Ev
+Green Communications and Computing Networks,COMP-0934_Guo_Green_Communications_Computing
+Temporal centrality-balanced traffic management for space satellite networks,COMP-0937_Guo_Temporal_Centrality-Balanced_Traffic
+MeLoDy,COMP-0948_Guo_[original filename]
+Detecting Android Malware Based on Extreme Learning Machine,COMP-0953_Guo_Detecting_Android_Malware
+Online unicasting and multicasting in software-defined networks,COMP-0969_Guo_Online_Unicasting_Multicasting
+Green Resource Allocation based on Deep Reinforcement Learning in Content-Centric IoT,COMP-0972_Guo_Green_Resource_Allocation
+Green C-RAN,COMP-0973_Guo_Green_C-Ran
+Robust secure beamforming for cognitive satellite terrestrial networks at millimeter-wave frequency,COMP-0974_Guo_Robust_Secure_Beamforming
+A survey on sensor placement for contamination detection in water distribution systems,COMP-0977_Guo_Survey_Sensor_Placement
+Envisioned Wireless Big Data Storage for Low-Earth-Orbit Satellite-Based Cloud,COMP-0978_Guo_Envisioned_Wireless_Big
+Two-Phase Task Scheduling in Data Relay Satellite Systems,COMP-0985_Guo_Two-Phase_Task_Scheduling
+Cooperative QoS Beamforming for Multicast Transmission in Terrestrial-Satellite Networks,COMP-0996_Guo_Cooperative_Qos_Beamforming
+Online internet traffic measurement and monitoring using spark streaming,COMP-0997_Guo_Online_Internet_Traffic
+TDRSS scheduling algorithm for non-uniform time-space distributed missions,COMP-0999_Guo_Tdrss_Scheduling_Algorithm
+Profit Maximization of NFV-Enabled Request Admissions in SDNs,COMP-1037_Guo_Profit_Maximization_Nfv-Enabled
+Spatial Angular Spectrum Sensing for Non-Geostationary Satellite Systems,COMP-1040_Guo_Spatial_Angular_Spectrum
+Secure Multimedia Big Data in Trust-Assisted Sensor-Cloud for Smart City,COMP-1062_Guo_Secure_Multimedia_Big
+Achieving Sustainable Ultra-Dense Heterogeneous Networks for 5G,COMP-1066_Guo_Achieving_Sustainable_Ultra-Dense
+Pinpointing Anomaly RFID Tags: Situation and Opportunities,COMP-1094_Liu_Pinpointing_Anomaly_Rfid
+A selective privacy-preserving approach for multimedia data,COMP-1114_Liu_Selective_Privacy-Preserving_Approach
+Strategic Antieavesdropping Game for Physical Layer Security in Wireless Cooperative Networks,COMP-1132_Guo_Strategic_Antieavesdropping_Game
+Top- k Queries for Categorized RFID Systems,COMP-1133_Liu_Top_K_Queries
+Efficient Algorithms for Throughput Maximization in Software-Defined Networks with Consolidated Middleboxes,COMP-1152_Guo_Efficient_Algorithms_Throughput
+A reliable task assignment strategy for spatial crowdsourcing in big data environment,COMP-1172_Guo_Reliable_Task_Assignment
+Optimal transmission strategy for sensors to defend against eavesdropping and jamming attacks,COMP-1176_Guo_Optimal_Transmission_Strategy
+Service provisioning update scheme for mobile application users in a cloudlet network,COMP-1177_Guo_Service_Provisioning_Update
+Traffic-aware task placement with guaranteed job completion time for geo-distributed big data,COMP-1178_Guo_Traffic-Aware_Task_Placement
+Approximation and Online Algorithms for NFV-Enabled Multicasting in SDNs,COMP-1185_Guo_Approximation_Online_Algorithms
+MELODY,COMP-1192_Guo_[original filename]
+Selective Traffic Offloading on the Fly,COMP-1193_Guo_Selective_Traffic_Offloading
+A Survey on Energy Internet Communications for Sustainability,COMP-1204_Guo_Survey_Energy_Internet
+Take Renewable Energy into CRAN toward Green Wireless Access Networks,COMP-1214_Zhang_Take_Renewable_Energy
+Temporal factor-aware video affective analysis and recommendation for cyber-based social media,COMP-1215_Guo_Temporal_Factor-Aware_Video
+Vehicle-Assist Resilient Information and Network System for Disaster Management,COMP-1216_Guo_Vehicle-Assist_Resilient_Information
+A Game Theoretic Approach to Parked Vehicle Assisted Content Delivery in Vehicular Ad Hoc Networks,COMP-1219_Guo_Game_Theoretic_Approach
+Antieavesdropping with Selfish Jamming in Wireless Networks,COMP-1220_Guo_Antieavesdropping_Selfish_Jamming
+Optimization of Deployable Base Stations with Guaranteed QoE in Disaster Scenarios,COMP-1221_Guo_Optimization_Deployable_Base
+Robust Large-Scale Spectrum Auctions against False-Name Bids,COMP-1240_Guo_Robust_Large-Scale_Spectrum
+Engineering a Game Theoretic Access for Urban Vehicular Networks,COMP-1242_Guo_Engineering_Game_Theoretic
+Spectrum-aware network coded multicast in mobile cognitive radio ad hoc networks,COMP-1243_Guo_Spectrum-Aware_Network_Coded
+Traffic-aware geo-distributed Big data analytics with predictable job completion time,COMP-1244_Guo_Traffic-Aware_Geo-Distributed_Big
+Distributed Energy Management for Vehicle-To-Grid Networks,COMP-1299_Guo_Distributed_Energy_Management
+Crowdsourcing-Based Content-Centric Network,COMP-1341_Wang_Crowdsourcing-Based_Content-Centric_Network
+Distributed Segment-Based Anomaly Detection with Kullback-Leibler Divergence in Wireless Sensor Networks,COMP-1344_Guo_Distributed_Segment-Based_Anomaly
+Stochastic analysis on the deactivation-controlled epidemic routing in DTNs with multiple sinks,COMP-1367_Guo_Stochastic_Analysis_Deactivation-Controlled
+Throughput Maximization in Software-Defined Networks with Consolidated Middleboxes,COMP-1377_Guo_Throughput_Maximization_Software-Defined
+Green Industrial Internet of Things Architecture: An Energy-Efficient Perspective,COMP-1394_Guo_Green_Industrial_Internet
+Maximizing Lifetime of Data-Gathering Trees with Different Aggregation Modes in WSNs,COMP-1409_Guo_Maximizing_Lifetime_Data-Gathering
+Near-Optimal Routing Protection for In-Band Software-Defined Heterogeneous Networks,COMP-1416_Guo_Near-Optimal_Routing_Protection

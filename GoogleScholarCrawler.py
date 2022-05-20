@@ -1,3 +1,5 @@
+import random
+
 from selenium import webdriver
 import pandas as pd
 import numpy as np
@@ -8,6 +10,7 @@ import re
 import os
 import requests
 import sys
+import wget
 import json
 
 author = "Nico Zheng"
@@ -78,7 +81,7 @@ class Article:
         self.total_articles = {}
 
     def createFolder(self):
-        self.output_fpath = "/".join([self.output_folder, self.keywords, self.target_journal])
+        self.output_fpath = "/".join([self.output_folder, str(random.randint(0,10000000))])
         if not os.path.exists(self.output_fpath):
             os.makedirs(self.output_fpath)  # creaet output folder if there is not one.
             print('creating folder {0}'.format(self.output_fpath))
@@ -137,51 +140,66 @@ class Article:
                     self.log = self.info['log'] + "||| pdf download error"
         self.total_articles[num] = self.info
 
-def run(keywords, journals, recursive = 6):
+def run(keywords, file_name, recursive = 6):
     '''
     search based on keywords and journals combinations
     recursive is the number of request pages.
     '''
-    if not chromedriver_path:
-        driver = webdriver.Chrome()
-    else:
-        driver = webdriver.Chrome(chromedriver_path)
+    driver = webdriver.Chrome()
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     driver.get('https://scholar.google.com/')
-    for i in keywords:
-        for j in journals:
-            cnt = 1
-            articles = Article(i, j, fpath)
-            search_keyword = " ".join([i.lower(), '''source:"{}"'''.format(j.lower())]) ## generate search keyword like "wikipedia source: 'mis quarterly'"
-            print("current search key: {0}".format(search_keyword))
-            input_element = driver.find_element_by_name("q")
-            input_element.clear()
-            input_element.send_keys(search_keyword)
-            input_element.submit()
-            time.sleep(2)
-            for n in range(recursive):
-                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                elements = driver.find_elements_by_css_selector("div[class=gs_r\ gs_or\ gs_scl]")  #find article boxs
-                for e in elements:
-                    try:
-                        articles.fit(e, driver, cnt)
-                    except:
-                        print("page {} number {} parse error!".format(n, cnt))
-                    cnt += 1
-                try:
-                    driver.find_element_by_css_selector("span[class=gs_ico\ gs_ico_nav_next]").click()
-                    time.sleep(3)
-                except:
-                    break   # break the loop if can't find next page
-            log = pd.DataFrame(articles.total_articles).T  # generate log files
-            now = datetime.datetime.now()
-            log.to_excel(articles.output_fpath+"/"+"logfile_{}.xlsx".format(now.strftime("%m-%d-%Y")))
+    search_keyword = keywords## generate search keyword like "wikipedia source: 'mis quarterly'"
+    # print("current search key: {0}".format(search_keyword))
+    input_element = driver.find_element_by_name("q")
+    input_element.clear()
+    input_element.send_keys(search_keyword)
+    input_element.submit()
+    # time.sleep(2)
+    response = None
+    lnks = driver.find_elements_by_tag_name("a")
+    for lnk in lnks:
+        # get_attribute() to get all href
+        tep = lnk.get_attribute('href')
+        if '.pdf' in tep.lower():
+            response = wget.download(tep, './downloads/{}.pdf'.format(file_name))
+            # print(response)
+    driver.close()
+    return response
+
+
+
+
+
+            # for n in range(recursive):
+            #     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            #     elements = driver.find_elements_by_css_selector("div[class=gs_r\ gs_or\ gs_scl]")  #find article boxs
+            #     for e in elements:
+            #         try:
+            #             articles.fit(e, driver, cnt)
+            #         except:
+            #             print("page {} number {} parse error!".format(n, cnt))
+            #         cnt += 1
+            #     try:
+            #         driver.find_element_by_css_selector("span[class=gs_ico\ gs_ico_nav_next]").click()
+            #         time.sleep(3)
+            #     except:
+            #         break   # break the loop if can't find next page
+            # log = pd.DataFrame(articles.total_articles).T  # generate log files
+            # now = datetime.datetime.now()
+            # log.to_excel(articles.output_fpath+"/"+"logfile_{}.xlsx".format(now.strftime("%m-%d-%Y")))
     driver.quit()
 
 if __name__ == '__main__':
-    config = json.load(open(sys.argv[1]))  # read config
+    config = json.load(open("./config.json"))  # read config
     keywords = config['keywords']
     journals = config['journals']
     fpath = config['fpath']
     chromedriver_path = config['chromedriver_path']
-    run(keywords, journals, recursive=6)
+
+    file = pd.read_csv('./data.CSV')
+    for index, row in file.iterrows():
+        title = row['title']
+        file_name = row['filename']
+        response = run(title, file_name, recursive=6)
+        if response == None:
+            print(title, index)
